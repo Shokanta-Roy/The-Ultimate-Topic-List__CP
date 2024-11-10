@@ -1,0 +1,9 @@
+Programming is a collaboration between humans and computers.
+A computer program consists of code that is executed on a computer to perform particular tasks.
+This code is written by programmers.
+
+Here are a few popular programming languages.
+=> C/C++
+=> Java
+=> JavaScript
+=> Python
