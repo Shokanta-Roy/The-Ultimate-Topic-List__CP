@@ -5,7 +5,8 @@ void solve()
 {
     long long n;
     cin>>n;
-    cout<<n*(n+1)/2<<endl;
+    cout<<(n*(n+1))/2<<endl;
+    //Sum of first n positive integers = n(n + 1)/2, where n is the total number of integers. 
 
 }
 
